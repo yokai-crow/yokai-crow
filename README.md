@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <img src="./git.png" style="max-width: 30%;"></img>
-<div style="margin:auto;">
-  ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
-</div>
+<br>
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokai-crow&layout=compact)](https://github.com/yokai-crow/github-readme-stats)
