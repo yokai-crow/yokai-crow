@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1 align="center">Hi there 👋 You're In Yokai 👺 Zone</h1>
+<br>
 
 <!--
 **yokai-crow/yokai-crow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-
-<img src="./git.png" style="max-width:30%; padding:50%;"></img>
+<img src="./git.png" width="30%"></img>
 
 
 <!--![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
