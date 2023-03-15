@@ -17,11 +17,21 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="./git.png" width="30%"></img>
-<img src="./cover.png" width="30%"></img>
+
+<img src="./Cover.png"></img> 
+<br><hr>
+
+<h4 align="center">
+  <i>
+    <b>
+        "Hide will guide you through the ride on midas."
+    </b>
+  </i>
+</h4>
 
 
 <!--![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokai-crow&layout=compact)](https://github.com/yokai-crow/github-readme-stats)
 -->
+
