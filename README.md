@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokai-crow&layout=compact)](https://github.com/yokai-crow/github-readme-stats)
 
-<img src="./git.png" style="height:50px; width:50px"></img>
+<img src="./git.png" style="height:150px; width:150px"></img>
