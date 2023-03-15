@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <img src="./git.png" width="30%"></img>
+<img src="./cover.png" width="30%"></img>
 
 
 <!--![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
