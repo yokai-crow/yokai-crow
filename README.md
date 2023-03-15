@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </i>
 </h4>
 
-![](https://github.com/yokai-crow/yokai-crow/blob/main/demon-slayer-anime.gif)
+<!--![](https://github.com/yokai-crow/yokai-crow/blob/main/demon-slayer-anime.gif)-->
 <!--![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokai-crow&layout=compact)](https://github.com/yokai-crow/github-readme-stats)
