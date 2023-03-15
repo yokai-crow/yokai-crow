@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokai-crow&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokai-crow&layout=compact)](https://github.com/yokai-crow/github-readme-stats)
 
-<img src="https://static.wikia.nocookie.net/naruto/images/f/fd/Madara.png/revision/latest/scale-to-width-down/1000?cb=20160115141947"></img>
+<img src="./git.png"></img>
