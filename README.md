@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <i>
     <b>
         "Hide will guide you through the ride on midas."
+        <strong>want my touch</strong>
     </b>
   </i>
 </h4>
