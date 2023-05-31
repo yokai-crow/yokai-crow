@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokai-crow&layout=compact)](https://github.com/yokai-crow/github-readme-stats)
 -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yokai-crow&" alt="Yokai Crow" /></p>
